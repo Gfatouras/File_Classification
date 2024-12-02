@@ -1,9 +1,4 @@
-# Ignore large data file
 data.csv
-
-# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-
-# Ignore production model and backup directories
 production_model/
 production_model - Backup/
