@@ -2,3 +2,5 @@ data.csv
 .ipynb_checkpoints/
 production_model/
 production_model - Backup/
+data_processed.csv
+file_class_full.csv
